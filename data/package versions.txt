@@ -1,0 +1,7 @@
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.6.1
+imbalanced-learn==0.14.2
+shap==0.54.1
+matplotlib==3.10.0
+PyDrive2
