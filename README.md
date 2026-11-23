@@ -26,11 +26,11 @@ The raw files are public and large, so they are not included here. To rerun note
 ## How to run
 1. Open a notebook in Google Colab (File → Open notebook → GitHub, then enter `ycma-data/DSC-680-Capstone`).
 2. Notebooks 02 and 03 load `data/institutions.csv` directly from this repository, so they run without notebook 01.
-3. Run the cells in order. Notebook 03 takes about [X] minutes with the full settings (10 repeats of 5-fold cross-validation). For a quick test, set `N_REPEATS = 2` and `TUNE = False` in its setup cell.
+3. Run the cells in order. 
 4. To run locally instead of Colab: `pip install -r requirements.txt`.
 
 ## Notes on use
 The models describe patterns across groups of institutions. They are not designed to score, rank, or predict the future of any individual institution, and this repository does not report individual risk scores.
 
 ## Citation
-Ma, Y. (2026). *Resilient, recovered, or vulnerable? A machine learning approach to enrollment trajectories at U.S. four-year institutions (2018–2024)* [Source code]. GitHub. https://github.com/ycma-data/DSC-680-Capstone
+Ma, Y. (2026). *Resilient, recovered, or vulnerable? A machine learning approach to enrollment trajectories at U.S. four-year higher education institutions (2018–2024)* [Source code]. GitHub. https://github.com/ycma-data/DSC-680-Capstone
